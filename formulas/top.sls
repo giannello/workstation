@@ -3,5 +3,6 @@ base:
     - chromium
     - git
     - salt-minion
+    - spotify
     - tig
     - tilix
