@@ -3,3 +3,4 @@ base:
     - chromium
     - git
     - salt-minion
+    - tig
