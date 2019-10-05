@@ -6,3 +6,4 @@ base:
     - spotify
     - tig
     - tilix
+    - tlp
