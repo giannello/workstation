@@ -4,3 +4,4 @@ base:
     - git
     - salt-minion
     - tig
+    - tilix
