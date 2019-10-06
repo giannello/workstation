@@ -7,6 +7,7 @@ base:
     - google-cloud-sdk
     - kube-ps1
     - kubectx
+    - minikube
     - plymouth
     - salt-minion
     - spotify
