@@ -10,6 +10,7 @@ base:
     - salt-minion
     - spotify
     - terraform
+    - terragrunt
     - tig
     - tilix
     - tlp
