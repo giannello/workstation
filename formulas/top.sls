@@ -9,6 +9,7 @@ base:
     - plymouth
     - salt-minion
     - spotify
+    - terraform
     - tig
     - tilix
     - tlp
