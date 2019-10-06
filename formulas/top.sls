@@ -4,6 +4,7 @@ base:
     - debian
     - git
     - google-cloud-sdk
+    - kubectx
     - plymouth
     - salt-minion
     - spotify
