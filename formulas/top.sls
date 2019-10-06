@@ -5,6 +5,7 @@ base:
     - git
     - git-hub
     - google-cloud-sdk
+    - kube-ps1
     - kubectx
     - plymouth
     - salt-minion
