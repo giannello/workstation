@@ -12,4 +12,5 @@ base:
     - tig
     - tilix
     - tlp
+    - vagrant
     - virtualbox
