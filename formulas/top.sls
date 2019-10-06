@@ -3,6 +3,7 @@ base:
     - chromium
     - debian
     - git
+    - google-cloud-sdk
     - plymouth
     - salt-minion
     - spotify
