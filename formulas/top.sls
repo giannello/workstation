@@ -1,6 +1,7 @@
 base:
   'delight':
     - chromium
+    - debian
     - git
     - plymouth
     - salt-minion
