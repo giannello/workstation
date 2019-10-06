@@ -3,6 +3,7 @@ base:
     - chromium
     - debian
     - git
+    - git-hub
     - google-cloud-sdk
     - kubectx
     - plymouth
