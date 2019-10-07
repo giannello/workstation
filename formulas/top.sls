@@ -1,6 +1,7 @@
 base:
   'delight':
     - chromium
+    - cloud-sql-proxy
     - debian
     - git
     - git-hub
