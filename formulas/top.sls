@@ -1,5 +1,6 @@
 base:
   'delight':
+    - awscli
     - chromium
     - cloud-sql-proxy
     - debian
