@@ -6,6 +6,7 @@ base:
     - debian
     - git
     - google-cloud-sdk
+    - hub
     - kube-ps1
     - kubectx
     - k9s
