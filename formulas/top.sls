@@ -4,6 +4,7 @@ base:
     - chromium
     - cloud-sql-proxy
     - debian
+    - deja-dup
     - git
     - google-cloud-sdk
     - hub
