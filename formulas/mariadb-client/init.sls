@@ -1,0 +1,2 @@
+mariadb-client:
+  pkg.installed

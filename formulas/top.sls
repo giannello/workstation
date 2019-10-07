@@ -9,6 +9,7 @@ base:
     - kube-ps1
     - kubectx
     - k9s
+    - mariadb-client
     - minikube
     - plymouth
     - salt-minion
