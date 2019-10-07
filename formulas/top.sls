@@ -5,7 +5,6 @@ base:
     - cloud-sql-proxy
     - debian
     - git
-    - git-hub
     - google-cloud-sdk
     - kube-ps1
     - kubectx
