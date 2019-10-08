@@ -5,6 +5,8 @@ base:
     - cloud-sql-proxy
     - debian
     - deja-dup
+    - docker
+    - docker-compose
     - firmware-linux-nonfree
     - git
     - google-cloud-sdk
