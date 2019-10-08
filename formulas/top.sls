@@ -5,6 +5,7 @@ base:
     - cloud-sql-proxy
     - debian
     - deja-dup
+    - firmware-linux-nonfree
     - git
     - google-cloud-sdk
     - hub
