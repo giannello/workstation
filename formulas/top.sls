@@ -3,6 +3,7 @@ base:
     - awscli
     - chromium
     - cloud-sql-proxy
+    - conftest
     - debian
     - deja-dup
     - docker
