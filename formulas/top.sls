@@ -17,6 +17,8 @@ base:
     - mariadb-client
     - minikube
     - plymouth
+    - pre-commit
+    - python3
     - salt-minion
     - spotify
     - terraform
