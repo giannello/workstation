@@ -28,3 +28,4 @@ base:
     - tlp
     - vagrant
     - virtualbox
+    - yamllint
