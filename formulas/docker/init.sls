@@ -1,3 +1,3 @@
 docker:
   pkg.installed:
-    - name: docker
+    - name: docker.io
