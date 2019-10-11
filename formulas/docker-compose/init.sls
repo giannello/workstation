@@ -1,8 +1,10 @@
 include:
   - docker
+  - python3
 
 docker-compose:
-  pkg.installed:
+  pip.installed:
     - name: docker-compose
     - require:
       - pkg: docker
+      - pkg: python3-pip
