@@ -21,6 +21,7 @@ base:
     - pre-commit
     - python3
     - salt-minion
+    - shellcheck
     - spotify
     - terraform
     - terragrunt
