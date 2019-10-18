@@ -14,6 +14,7 @@ base:
     - hub
     - kube-ps1
     - kubectx
+    - kubeseal
     - k9s
     - mariadb-client
     - minikube
