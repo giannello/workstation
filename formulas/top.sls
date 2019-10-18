@@ -20,6 +20,7 @@ base:
     - plymouth
     - pre-commit
     - python3
+    - pwgen
     - salt-minion
     - shellcheck
     - spotify
