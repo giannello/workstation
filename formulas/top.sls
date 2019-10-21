@@ -18,6 +18,7 @@ base:
     - k9s
     - mariadb-client
     - minikube
+    - nvme-cli
     - plymouth
     - pre-commit
     - python3
