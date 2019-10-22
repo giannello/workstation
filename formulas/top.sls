@@ -11,6 +11,7 @@ base:
     - firmware-linux-nonfree
     - git
     - google-cloud-sdk
+    - groovy
     - hub
     - kube-ps1
     - kubectx
