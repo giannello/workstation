@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/gruntwork-io/terragrunt/releases/download' %}
-{% set version = 'v0.19.29' %}
+{% set version = 'v0.20.5' %}
 
 include:
   - terraform
