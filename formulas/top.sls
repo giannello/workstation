@@ -33,5 +33,6 @@ base:
     - tilix
     - tlp
     - vagrant
+    - velero
     - virtualbox
     - yamllint
