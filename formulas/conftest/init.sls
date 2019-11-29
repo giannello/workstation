@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/instrumenta/conftest/releases/download' %}
-{% set version = '0.14.0' %}
+{% set version = '0.15.0' %}
 
 conftest-directory:
   file.directory:
