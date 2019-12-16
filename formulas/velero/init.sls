@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/vmware-tanzu/velero/releases/download' %}
-{% set version = 'v1.1.0' %}
+{% set version = 'v1.2.0' %}
 
 velero-directory:
   file.directory:
