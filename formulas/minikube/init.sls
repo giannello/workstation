@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/kubernetes/minikube/releases/download' %}
-{% set version = 'v1.4.0' %}
+{% set version = 'v1.6.1' %}
 
 include:
   - virtualbox
