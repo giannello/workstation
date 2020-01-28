@@ -6,3 +6,9 @@ python3-pip:
     - name: python3-pip
     - require:
       - pkg: python3
+
+pipenv:
+  pkg.installed:
+    - name: pipenv
+    - require:
+      - pkg: python3
