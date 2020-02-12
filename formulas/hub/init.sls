@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/github/hub/releases/download' %}
-{% set version = '2.13.0' %}
+{% set version = '2.14.1' %}
 
 hub-directory:
   file.directory:
