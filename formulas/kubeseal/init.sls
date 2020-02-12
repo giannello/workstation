@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/bitnami-labs/sealed-secrets/releases/download/' %}
-{% set version = 'v0.9.6' %}
+{% set version = 'v0.9.7' %}
 
 kubeseal-directory:
   file.directory:
