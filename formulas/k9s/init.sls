@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/derailed/k9s/releases/download' %}
-{% set version = '0.11.2' %}
+{% set version = '0.14.0' %}
 
 k9s-directory:
   file.directory:
@@ -20,10 +20,8 @@ k9s:
   archive.extracted:
     - name: /opt/k9s/{{ version }}
     - enforce_toplevel: false
-    - source: {{ base_url }}/{{ version }}/k9s_{{ version }}_linux_x86_64.tar.gz
-    # Due to the checksums.txt format, the hash check fails.
-    # - source_hash: {{ base_url }}/{{ version }}/checksums.txt
-    - skip_verify: true
+    - source: {{ base_url }}/v{{ version }}/k9s_Linux_x86_64.tar.gz
+    - source_hash: {{ base_url }}/v{{ version }}/checksums.txt
     - require:
       - file: k9s
 
