@@ -1,5 +1,5 @@
 {% set base_url = 'https://releases.hashicorp.com/terraform' %}
-{% set version = '0.12.20' %}
+{% set version = '0.12.21' %}
 
 terraform-directory:
   file.directory:
