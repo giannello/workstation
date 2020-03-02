@@ -19,6 +19,7 @@ base:
     - k9s
     - mariadb-client
     - minikube
+    - nodejs
     - nvme-cli
     - plymouth
     - pre-commit
