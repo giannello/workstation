@@ -9,6 +9,7 @@ base:
     - docker
     - docker-compose
     - firmware-linux-nonfree
+    - gh
     - git
     - google-cloud-sdk
     - groovy
