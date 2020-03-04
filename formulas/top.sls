@@ -12,7 +12,6 @@ base:
     - git
     - google-cloud-sdk
     - groovy
-    - hub
     - kube-ps1
     - kubectx
     - kubeseal
