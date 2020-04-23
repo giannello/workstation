@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/cli/cli/releases/download' %}
-{% set version = '0.6.4' %}
+{% set version = '0.7.0' %}
 
 gh:
   pkg.installed:
