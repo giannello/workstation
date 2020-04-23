@@ -1,5 +1,5 @@
 {% set base_url = 'https://github.com/derailed/k9s/releases/download' %}
-{% set version = '0.14.0' %}
+{% set version = '0.19.2' %}
 
 k9s-directory:
   file.directory:
