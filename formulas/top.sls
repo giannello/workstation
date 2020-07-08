@@ -18,7 +18,6 @@ base:
     - kubeseal
     - k9s
     - mariadb-client
-    - minikube
     - nodejs
     - nvme-cli
     - plymouth
@@ -33,7 +32,5 @@ base:
     - tig
     - tilix
     - tlp
-    - vagrant
     - velero
-    - virtualbox
     - yamllint
